@@ -1,2 +1,4 @@
 * Personal emacs configuration file with ideology to keep it simple and minimal.
-* Can be used on any system with emacs installed by just copying "init.el" file.
++ Can be used on any system with emacs installed by just copying "init.el" file.
++ Vim keybindings by default.
++ Tested on emacs version 27+ however it should work on relatively older versions.
