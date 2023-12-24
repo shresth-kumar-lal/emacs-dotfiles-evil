@@ -1,0 +1,2 @@
+* Personal emacs configuration file with ideology to keep it simple and minimal.
+* Can be used on any system with emacs installed by just copying "init.el" file.
