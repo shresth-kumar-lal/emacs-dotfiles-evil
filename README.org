@@ -3,3 +3,4 @@
 + Vim keybindings by default.
 + Tested on emacs version 27+ however it should work on relatively older versions.
 + Firacode font is recommended
++ Also works on Freebsd.
